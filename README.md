@@ -1,4 +1,4 @@
-# Local LLV UI with Authentication and Weekly Email Report
+# Local LLM UI with Authentication and Weekly Email Report
 
 ### Overview:
 Develop a secure local UI with authentication features and automated email reporting for enhanced user interaction and data management.
