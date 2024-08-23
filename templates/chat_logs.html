@@ -1,0 +1,9 @@
+<!-- chat_logs.html -->
+<ul>
+    {% for log in logs %}
+        <li>{{ log }}</li>
+    {% endfor %}
+</ul>
+<form action="{{ url_for('delete_chat_logs') }}" method="POST">
+    <button type="submit">Delete Chat Logs</button>
+</form>
