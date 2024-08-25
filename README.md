@@ -22,7 +22,7 @@ Develop a secure local UI with authentication features and automated email repor
 3. Clone the Local LLM repo, install the requirements using: pip install -r requirements.txt
 4. Fill in the Google, Github, Mail username and Mail password (For the account that needs to recieve the weekly chatlog update).
 5. The chat encription key is needed to encrypt the chatlog data. It is optional, and a default key is generated in case not provided by user.
-6. Run: python http://app.py
+6. Run: python app.py
 
 ### _Tips and Potential Improvements_:
 
